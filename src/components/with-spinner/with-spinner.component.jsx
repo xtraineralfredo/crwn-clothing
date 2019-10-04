@@ -1,4 +1,4 @@
-import React from "styled-components";
+import React from "react";
 
 import { SpinnerContainer, SpinnerOverlay } from "./with-spinner.styles";
 
